@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/sachink02316651" target="blank"><img src="https://img.shields.io/twitter/follow/sachink02316651?logo=twitter&style=for-the-badge" alt="sachink02316651" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science,Machine Learning**
-
+- 👀 I love SQL, Tableau, Python and telling stories and making predictions with data.
 - 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **sachintukumar1609@gmail.com**
