@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinkumar1609&show_icons=true&locale=en&layout=compact" alt="sachinkumar1609" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkumar1609&show_icons=true&locale=en" alt="sachinkumar1609" /></p>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sachinkumar1609&theme=ads-juicy-fresh&hide_border=true)](https://git.io/streak-stats)
 
