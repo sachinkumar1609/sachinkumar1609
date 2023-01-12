@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinkumar1609&show_icons=true&locale=en" alt="sachinkumar1609" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinkumar1609&" alt="sachinkumar1609" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sachinkumar1609&theme=bear&hide_border=true)](https://git.io/streak-stats)
 
    
