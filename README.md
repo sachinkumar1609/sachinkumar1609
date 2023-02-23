@@ -17,7 +17,7 @@
 <a href="https://twitter.com/Sachintukumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachink02316651" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachin-kumar-9735661b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-kumar-9735661b5" height="30" width="40" /></a>
  <a href="https://www.instagram.com/datawithsachin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="datawithsachin" height="30" width="40" /></a>
-<a href="https://medium.com/@sachintukumar1609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Medium.svg" alt="Sachin-kumar" height="30" width="40" /></a>
+<a href="https://medium.com/@sachintukumar1609" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" alt="Sachin-kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
