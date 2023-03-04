@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Sachin kumar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Sachin+kumar)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">A Passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
