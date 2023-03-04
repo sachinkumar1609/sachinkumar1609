@@ -33,5 +33,6 @@
  
 [![Sachinkumar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar1609&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
  
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
     
