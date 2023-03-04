@@ -37,4 +37,4 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
     
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?sachinkumar1609={sachinkumar1609}&theme={radical}
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?sachinkumar1609={sachinkumar1609}&radical={radical}
