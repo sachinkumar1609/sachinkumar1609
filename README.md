@@ -29,6 +29,7 @@
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sachinkumar1609&theme=ads-juicy-fresh&hide_border=true)](https://git.io/streak-stats)
  
+ [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
  
 
  
