@@ -32,8 +32,7 @@
  
  [![GitHub followers](https://img.shields.io/github/followers/sachinkumar1609.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sachinkumar1609?tab=followers)
  
-[![Sachinkumar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar1609&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
- 
+
 
     
 
