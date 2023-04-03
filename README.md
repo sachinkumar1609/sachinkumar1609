@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar1609&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar1609" /> </p>
 
-- 🌱 I’m currently learning **Data Science,Machine Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning**
 - 👀 I love SQL, PowerBI, Python and telling stories and making predictions with data.
 - 💬 Ask me about **Data Analysis**
 
