@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Product Analytics, SQL, and Data-Driven Decision Making
 - 👀 I enjoy working on funnel analysis, user behavior insights, and solving real business problems using data.
 - I focus on turning data into actionable insights that improve product metrics like activation, retention, and conversion
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about Product Analytics, SQL, Funnel Analysis, and Data Insights
 
 - 📫 How to reach me **sachintukumar1609@gmail.com**
 
