@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar1609&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar1609" /> </p>
 
 - 🌱 I’m currently learning Product Analytics, SQL, and Data-Driven Decision Making
-- 👀 I enjoy working on **funnel analysis, user behavior insights, and solving real business problems using data.
+- 👀 I enjoy working on funnel analysis, user behavior insights, and solving real business problems using data.
 - 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **sachintukumar1609@gmail.com**
