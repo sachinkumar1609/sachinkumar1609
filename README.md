@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sachintukumar1609@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact I break problems like a Product Analyst… and crack jokes like a stand-up comedian 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
